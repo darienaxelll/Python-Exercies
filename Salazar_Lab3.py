@@ -1,3 +1,12 @@
+#################################################################################
+#
+#  Purpose: This appliccation is a way to mix and match colors: blue, red and yellow. Dependoing on the two chosen colors, a new color will be generated. 
+#  Developer: Darien Salazar
+#  Coded on: 2-9-24
+#  Version: 1.0.0
+#
+#################################################################################
+
 RED = "red"
 BLUE = "blue"
 YELLOW = "yellow"
